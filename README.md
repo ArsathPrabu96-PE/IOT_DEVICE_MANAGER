@@ -106,13 +106,13 @@ lib/
 
 ## Color Palette
 
-| Color       | Hex Code  | Usage                 |
-|-------------|-----------|-----------------------|
-| Background  | #0D1117   | Main background       |
-| Surface     | #161B22   | Card backgrounds     |
-| Accent Cyan | #00D9FF   | Interactive elements |
-| Accent Green| #00FF88   | Online status        |
-| Accent Red  | #FF4757   | Offline/warning      |
+| Color       | Hex Code | Usage                 |
+|-------------|----------|-----------------------|
+| Background  | #0D1117  | Main background       |
+| Surface     | #161B22  | Card backgrounds       |
+| Accent Cyan | #00D9FF  | Interactive elements   |
+| Accent Green| #00FF88  | Online status         |
+| Accent Red  | #FF4757  | Offline/warning       |
 
 ## Design
 
