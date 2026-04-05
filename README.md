@@ -5,17 +5,20 @@ A cloud-based IoT device management platform built with Flutter. Monitor and con
 ## Features
 
 ### Authentication
+
 - Email/password registration and login
 - Persistent sessions with auto-login
 - Secure sign out functionality
 
 ### Dashboard
+
 - Real-time device monitoring
 - Device status indicators (ON/OFF)
 - Live temperature updates
 - Pull-to-refresh functionality
 
 ### Device Control
+
 - Toggle device status
 - View detailed device information
 - Last updated timestamps
@@ -69,6 +72,7 @@ users/{userId}
 ```
 
 ### devices Collection
+
 ```
 devices/{deviceId}
   - userId: String
