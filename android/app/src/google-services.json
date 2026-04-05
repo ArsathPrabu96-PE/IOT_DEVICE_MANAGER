@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720123563473",
+    "project_id": "iot-device-monitoring",
+    "storage_bucket": "iot-device-monitoring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720123563473:android:985181b069063d40e8a4f0",
+        "android_client_info": {
+          "package_name": "s6s.androidiotdevice.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720123563473-5li02gmovmh9dv18qec2iif50ebc9g78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTKp44EZMBp6q45qrUCifu2SkoLMzcQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720123563473-5li02gmovmh9dv18qec2iif50ebc9g78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
