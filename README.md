@@ -87,7 +87,7 @@ devices/{deviceId}
 
 ## Project Structure
 
-```
+```text
 lib/
 ├── main.dart
 ├── app.dart
