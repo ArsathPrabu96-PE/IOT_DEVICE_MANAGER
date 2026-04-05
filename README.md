@@ -65,7 +65,7 @@ flutter run
 
 ### users Collection
 
-```
+```text
 users/{userId}
   - email: String
   - createdAt: Timestamp
@@ -74,7 +74,7 @@ users/{userId}
 
 ### devices Collection
 
-```
+```text
 devices/{deviceId}
   - userId: String
   - name: String
