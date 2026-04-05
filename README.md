@@ -64,6 +64,7 @@ flutter run
 ## Database Schema
 
 ### users Collection
+
 ```
 users/{userId}
   - email: String
